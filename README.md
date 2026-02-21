@@ -1,4 +1,4 @@
-# 🎓 Staj Atama Sistemi (Greedy vs Heuristic Simülasyonu)
+# 🎓 Staj Atama Sistemi  (Greedy vs Heuristic Simülasyonu)
 
 Bu proje, üniversitelerdeki staj yerleştirme sürecini **simülasyon ortamında** incelemek için geliştirilmiş bir Python uygulamasıdır. Sistem, öğrencilerin **GNO (Genel Not Ortalaması)** ve **firma tercihleri** üzerinden iki farklı algoritma kullanarak yerleştirme yapar:
 
